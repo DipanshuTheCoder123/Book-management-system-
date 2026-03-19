@@ -1,5 +1,68 @@
+# 📚 Book Management System
 
-<h1>📚 Book Management System</h1>
+A simple web-based Book Management System that allows users to manage books efficiently.
+
+---
+
+## 🚀 Features
+
+* Add new books 📖
+* View all books 📋
+* Update book details ✏️
+* Delete books ❌
+* Simple and user-friendly UI
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: (Add if using Java / Spring Boot)
+* Database: (Add if using MySQL)
+
+---
+
+## 📂 Project Structure
+
+```
+book_management/
+│── index.html
+│── README.md
+│── (other files)
+```
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/book-management-system.git
+```
+
+2. Open the project folder
+
+3. Run the project:
+
+* Open `index.html` in your browser
 
 
 
+
+---
+
+## 💡 Future Improvements
+
+* Add login/signup system 🔐
+* Connect with database (MySQL)
+* Convert into full-stack using Spring Boot
+
+---
+
+## 👨‍💻 Author
+
+Dipanshu Dhawade
+GitHub: https://github.com/DipanshuTheCoder123
+
+---
