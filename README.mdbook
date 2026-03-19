@@ -1,67 +1,115 @@
-# 📚 Book Management System
+<!DOCTYPE html>
 
-A simple web-based Book Management System that allows users to manage books efficiently.
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Management System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        code {
+            background-color: #eee;
+            padding: 5px;
+            display: block;
+            margin: 10px 0;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
 
----
+<div class="container">
 
-## 🚀 Features
+<h1>📚 Book Management System</h1>
 
-* Add new books 📖
-* View all books 📋
-* Update book details ✏️
-* Delete books ❌
-* Simple and user-friendly UI
+<p>A simple web-based Book Management System that allows users to manage books efficiently.</p>
 
----
+<hr>
 
-## 🛠️ Tech Stack
+<h2>🚀 Features</h2>
+<ul>
+    <li>Add new books 📖</li>
+    <li>View all books 📋</li>
+    <li>Update book details ✏️</li>
+    <li>Delete books ❌</li>
+    <li>Simple and user-friendly UI</li>
+</ul>
 
-* Frontend: HTML, CSS, JavaScript
-* Backend: (Add if using Java / Spring Boot)
-* Database: (Add if using MySQL)
+<hr>
 
----
+<h2>🛠️ Tech Stack</h2>
+<ul>
+    <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+    <li><strong>Backend:</strong> Java / Spring Boot (optional)</li>
+    <li><strong>Database:</strong> MySQL (optional)</li>
+</ul>
 
-## 📂 Project Structure
+<hr>
 
-```
-book_management/
-│── index.html
-│── README.md
+<h2>📂 Project Structure</h2>
+<code>
+book_management/<br>
+│── index.html<br>
+│── README.md<br>
 │── (other files)
-```
+</code>
 
----
+<hr>
 
-## ▶️ How to Run the Project
+<h2>▶️ How to Run the Project</h2>
+<ol>
+    <li>Clone the repository:</li>
+</ol>
 
-1. Clone the repository:
+<code>
+git clone https://github.com/DipanshuTheCoder123/book-management-system-.git
+</code>
 
-```bash
-git clone https://github.com/your-username/book-management-system.git
-```
+<ol start="2">
+    <li>Open the project folder</li>
+    <li>Run the project: Open <code>index.html</code> in your browser</li>
+</ol>
 
-2. Open the project folder
+<hr>
 
-3. Run the project:
+<h2>💡 Future Improvements</h2>
+<ul>
+    <li>Add login/signup system 🔐</li>
+    <li>Connect with database (MySQL)</li>
+    <li>Convert into full-stack using Spring Boot</li>
+</ul>
 
-* Open `index.html` in your browser
+<hr>
 
----
+<h2>👨‍💻 Author</h2>
+<p>
+Dipanshu Dhawade<br>
+GitHub: <a href="https://github.com/DipanshuTheCoder123" target="_blank">
+https://github.com/DipanshuTheCoder123
+</a>
+</p>
 
+<hr>
 
+<p>⭐ If you like this project, give it a star!</p>
 
-## 💡 Future Improvements
+</div>
 
-* Add login/signup system 🔐
-* Connect with database (MySQL)
-* Convert into full-stack using Spring Boot
-
----
-
-## 👨‍💻 Author
-
-Dipanshu Dhawade
-GitHub: https://github.com/DipanshuTheCoder123
-
----
+</body>
+</html>
